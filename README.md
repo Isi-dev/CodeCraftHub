@@ -21,9 +21,9 @@ Prompt 3: Create the user service
 I want to create a User Management Service for my learning platform. I will use Node.js and MongoDB. Please recommend an optimal project structure, including key folders, files, and configurations, following best practices for scalability, maintainability, and security.
 ```
 
-Prompt 4: Insert code in each file
+Prompt 4: Insert code in each file with proper documentation
 ```
-I have set up the User Management Service project using Node.js and MongoDB based on the recommended folder structure. Please give me the code that is to be included in each of the files, ensuring it follows best practices for scalability, maintainability, and security. Include all necessary fields, models, controllers, routes, middleware, and configuration files.
+I have set up the User Management Service project using Node.js and MongoDB based on the recommended folder structure. Please give me the code that is to be included in each of the files, ensuring it follows best practices for scalability, maintainability, and security. Include all necessary fields, models, controllers, routes, middleware, and configuration files. Also include detailed documentation in each file.
 ```
 
 ### Test the application 
@@ -97,6 +97,7 @@ To stop running the containers:
 ```
 docker-compose down
 ```
+
 
 
 
